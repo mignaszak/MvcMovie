@@ -77,6 +77,6 @@ E:\Projekty\Tests\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.OAuth.xml
 E:\Projekty\Tests\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.Google.xml
 E:\Projekty\Tests\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.Twitter.xml
 E:\Projekty\Tests\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-E:\Projekty\Tests\MvcMovie\MvcMovie\obj\Debug\MvcMovie.csprojResolveAssemblyReference.cache
 E:\Projekty\Tests\MvcMovie\MvcMovie\obj\Debug\MvcMovie.dll
 E:\Projekty\Tests\MvcMovie\MvcMovie\obj\Debug\MvcMovie.pdb
+E:\Projekty\Tests\MvcMovie\MvcMovie\obj\Debug\MvcMovie.csprojResolveAssemblyReference.cache
