@@ -80,3 +80,6 @@ E:\Projekty\Tests\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.MicrosoftAccount
 E:\Projekty\Tests\MvcMovie\MvcMovie\obj\Debug\MvcMovie.dll
 E:\Projekty\Tests\MvcMovie\MvcMovie\obj\Debug\MvcMovie.pdb
 E:\Projekty\Tests\MvcMovie\MvcMovie\obj\Debug\MvcMovie.csprojResolveAssemblyReference.cache
+E:\Projekty\Tests\MvcMovie\MvcMovie\obj\Debug\MvcMovie.Migrations.Initial.resources
+E:\Projekty\Tests\MvcMovie\MvcMovie\obj\Debug\MvcMovie.csproj.GenerateResource.Cache
+E:\Projekty\Tests\MvcMovie\MvcMovie\obj\Debug\MvcMovie.Migrations.Rating.resources
