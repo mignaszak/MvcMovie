@@ -83,3 +83,5 @@ E:\Projekty\Tests\MvcMovie\MvcMovie\obj\Debug\MvcMovie.csprojResolveAssemblyRefe
 E:\Projekty\Tests\MvcMovie\MvcMovie\obj\Debug\MvcMovie.Migrations.Initial.resources
 E:\Projekty\Tests\MvcMovie\MvcMovie\obj\Debug\MvcMovie.csproj.GenerateResource.Cache
 E:\Projekty\Tests\MvcMovie\MvcMovie\obj\Debug\MvcMovie.Migrations.Rating.resources
+E:\Projekty\Tests\MvcMovie\MvcMovie\obj\Debug\MvcMovie.Migrations.DataAnnotations.resources
+E:\Projekty\Tests\MvcMovie\MvcMovie\obj\Debug\MvcMovie.Migrations.DataAnnotations1.resources
